@@ -249,8 +249,6 @@
     <div class="container">
         <p>هذا الموقع يوفر لك أدوات متقدمة لحساب حد النجاح في كل مادة ومعدل امتحان الإجازة الإجمالي بسهولة وسرعة. اختر الأداة التي تناسب احتياجاتك من الخيارات أدناه.</p>
         
-        </div>
-        
         <div class="buttons-container">
             <a href="https://webdr-creator.github.io/Cal/Exam.html" class="btn">
                 <i class="fas fa-file-alt"></i>
