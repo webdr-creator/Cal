@@ -256,7 +256,7 @@
                 <p>أداة لحساب عدد الأسئلة اللازمة للنجاح</p>
             </a>
             
-            <a href="https://webdr-creator.github.io/Cal/Exam.html" class="btn">
+            <a href="https://webdr-creator.github.io/Cal/Pass.html" class="btn">
                 <i class="fas fa-chart-bar"></i>
                 <h3>حساب معدل الامتحان</h3>
                 <p>أداة  لحساب معدل الامتحان الاجمالي </p>
