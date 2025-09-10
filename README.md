@@ -243,38 +243,25 @@
         <div class="logo">
             <i class="fas fa-calculator"></i>
         </div>
-        <h1>حساب المعدلات الدراسية</h1>
+        <h1>حساب علامات امتحان الإجازة لطلاب الطب </h1>
     </div>
     
     <div class="container">
-        <p>هذا الموقع يوفر لك أدوات متقدمة لحساب المعدلات الدراسية بسهولة وسرعة. اختر الأداة التي تناسب احتياجاتك من الخيارات أدناه.</p>
+        <p>هذا الموقع يوفر لك أدوات متقدمة لحساب حد النجاح في كل مادة ومعدل امتحان الإجازة الإجمالي بسهولة وسرعة. اختر الأداة التي تناسب احتياجاتك من الخيارات أدناه.</p>
         
-        <div class="features">
-            <div class="feature">
-                <i class="fas fa-calculator"></i>
-                <p>حساب دقيق</p>
-            </div>
-            <div class="feature">
-                <i class="fas fa-clock"></i>
-                <p>توفير للوقت</p>
-            </div>
-            <div class="feature">
-                <i class="fas fa-graduation-cap"></i>
-                <p>لجميع المراحل</p>
-            </div>
         </div>
         
         <div class="buttons-container">
             <a href="https://webdr-creator.github.io/Cal/Exam.html" class="btn">
                 <i class="fas fa-file-alt"></i>
-                <h3>حساب المعدل</h3>
-                <p>أداة متقدمة لحساب المعدلات الدراسية</p>
+                <h3>حساب حد النجاح</h3>
+                <p>أداة لحساب عدد الأسئلة اللازمة للنجاح</p>
             </a>
             
             <a href="https://webdr-creator.github.io/Cal/Exam.html" class="btn">
                 <i class="fas fa-chart-bar"></i>
-                <h3>حساب النسب</h3>
-                <p>أداة متقدمة لحساب النسب المئوية والتحصيلي</p>
+                <h3>حساب معدل الامتحان</h3>
+                <p>أداة  لحساب معدل الامتحان الاجمالي </p>
             </a>
         </div>
     </div>
